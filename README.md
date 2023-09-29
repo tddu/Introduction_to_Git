@@ -6,10 +6,36 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Class Requirements](#Class-requirements)
+* [Class Requirements](#class-requirements)
 * [Text Editors](#text-editors)
 * [Installing Git](#installing-git)
 * [Seeking Help](#seeking-help)
+* [Requirements](#requirements)
+* [Text Editors](#text-editors-1)
+* [Installing Git](#installing-git-1)
+* [Setup](#setup)
+* [Starting your journey](#starting-your-journey)
+* [The staging area](#the-staging-area)
+* [Committing](#committing)
+* [Let’s see what just happened](#lets-see-what-just-happened)
+* [A necessary digression](#a-necessary-digression)
+* [Staging area again](#staging-area-again)
+* [Undoing](#undoing)
+* [Undoing II](#undoing-ii)
+* [Branching](#branching)
+* [Now you see me, now you don’t](#now-you-see-me-now-you-dont)
+* [Merging](#merging)
+* [Merge Conflicts](#merge-conflicts)
+* [Fixing a conflict](#fixing-a-conflict)
+* [Fixing a conflict](#fixing-a-conflict-1)
+* [GitHub](#github)
+* [Login or sign up with GitHub](#login-or-sign-up-with-github)
+* [Create your first GitHub repository](#create-your-first-github-repository)
+* [Fork a repo](#fork-a-repo)
+* [Let’s collaborate !](#lets-collaborate-)
+* [Finally](#finally)
+* [References and Further reading](#references-and-further-reading)
+
 
 
 Introduction
