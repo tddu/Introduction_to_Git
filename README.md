@@ -251,16 +251,16 @@ As a helpful step, you may want to set Git to use your favourite editor
 
 First, clone this repository:
 
-    $ git clone https://github.com/Waseem0912-coder/git-workshop.git
+    $ git clone https://github.com/Waseem0912-coder/Introduction_to_Git.git
 
 You may want to fork (create your own copy of) the project on github and
 clone from your own repo. You can find the fork button at the top right of
 the screen on a github repository, or more help about doing that [here](https://help.github.com/articles/fork-a-repo/).
 
 Once you have cloned your repository, you should now see a directory
-called `git-workshop`. This is your `working directory`
+called `git-intro`. This is your `working directory`
 
-    $ cd git-workshop
+    $ cd git-intro
     $ ls
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png)
@@ -303,7 +303,7 @@ to go with the commit at the same time.
     $ git commit -m "I am adding two new files"
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png)
-Stuck? Ask for help from the workshop staff
+Stuck? Ask for help from the TA
 
 # Let’s see what just happened
 
@@ -340,7 +340,7 @@ You should see something similar to:
     index 0000000..e69de29
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png)
-Stuck? Ask for help from the workshop staff
+Stuck? Ask for help from the TA
 
 # A necessary digression
 
