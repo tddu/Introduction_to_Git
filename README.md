@@ -191,8 +191,6 @@ For those interested in pushing their Git skills even further, consider explorin
 
 ---
 
-# Introduction to Git, GitHub, and GitHub Desktop
-
 ## Part 3: Collaborative Work and Advanced GitHub Features
 
 ### Table of Contents
