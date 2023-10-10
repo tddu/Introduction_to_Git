@@ -20,7 +20,7 @@ By the end of this tutorial, you should be able to:
 
 Start by forking the existing repository. This repository is located on a remote server, which is typically GitHub for most projects. By forking it, you create a local copy which you can edit and push back to the remote repository.
 
-> When you fork the project, make sure to unselect the option to Copy the main branch only only
+> When you fork the project, make sure to unselect the option to Copy the main branch only
 
 Next clone the repo
 
@@ -28,18 +28,18 @@ Next clone the repo
 $ git clone https://github.com/[YOUR_GITHUB_ID]/Introduction_to_Git/
 ```
 
-If you check the repo, you'll find two branches `main` and `dev` (You may not see the `dev` branch since it's remote)
+If you check the repo, you should see the two branches `main` and `dev`
 
 ```bash
-$ git branch --list
+$ git branch -a
 ```
 
 #### 2. Create a New Branch:
 
-Checkout out the `dev` branch and then create a new branch from dev using the following command
+Checkout out the remote `dev` branch and then create a new branch from dev using the following command
 
 ```bash
-$ git checkout dev
+$ git checkout remotes/origin/dev
 $ git checkout -b [your_name]-choice
 ```
 
@@ -79,7 +79,7 @@ Now, return to the GitHub repository online:
 
 1. Click on "Pull Requests".
 2. Select "New Pull Request".
-3. For the base branch, choose "main". For the compare branch, pick your branch (`[your_name]-choice`).
+3. For the base branch, choose "main" **from your Fork**. For the compare branch, pick your branch (`[your_name]-choice`) **from your Fork**.
 4. Review your changes and click "Create Pull Request".
 5. Add a title and description for your PR and submit.
 
@@ -105,4 +105,9 @@ To resolve this:
 
 After resolving all conflicts, create the PR
 
-Congratulations! You've now tackled changes, navigated conflicts, and initiated a PR. Handling merge conflicts can seem daunting at first, but with practice, it becomes intuitive. This exercise imparts the collaborative flow of team projects using Git and GitHub, enhancing your version control skills.
+#### 6. Merge the PR
+
+Finally, merge the PR.
+
+Congratulations! You've now tackled changes, navigated conflicts, and initiated a PR. Handling merge conflicts can seem daunting at first, but with practice, it becomes intuitive. This exercise imparts the collaborative flow of team projects using Git and
+GitHub, enhancing your version control skills.
