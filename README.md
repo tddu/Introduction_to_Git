@@ -20,6 +20,8 @@ By the end of this tutorial, you should be able to:
 
 Start by forking the existing repository. This repository is located on a remote server, which is typically GitHub for most projects. By forking it, you create a local copy which you can edit and push back to the remote repository.
 
+> When you fork the project, make sure to unselect the option to Copy the main branch only only
+
 Next clone the repo
 
 ```bash
