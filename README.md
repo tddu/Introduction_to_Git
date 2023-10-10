@@ -11,9 +11,8 @@ By the end of this tutorial, you should be able to:
 
 1. Clone a repository.
 2. Make changes and push them.
-3. Resolve merge conflicts.
-4. Use the rebase command.
-5. Raise a pull request (PR).
+3. Raise a pull request (PR).
+4. Resolve merge conflicts.
 
 ### Let's Get Started!
 
