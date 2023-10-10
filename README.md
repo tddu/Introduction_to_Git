@@ -1,4 +1,4 @@
-## Git Tutorial: Handling Merges, Rebases, and Pull Requests
+## Git Tutorial: Handling Merges and Pull Requests
 
 ### Prerequisites:
 
