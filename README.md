@@ -16,12 +16,14 @@ By the end of this tutorial, you should be able to:
 
 ### Let's Get Started!
 
-#### 1. Clone the Repository:
+#### 1. Fork the Repository:
 
-Start by cloning the existing repository. This repository is located on a remote server, which is typically GitHub for most projects. By cloning it, you create a local copy on your machine which you can edit and push back to the remote repository.
+Start by forking the existing repository. This repository is located on a remote server, which is typically GitHub for most projects. By forking it, you create a local copy which you can edit and push back to the remote repository.
+
+Next clone the repo
 
 ```bash
-$ git clone https://github.com/Uzair-Fasih/Introduction_to_Git/
+$ git clone https://github.com/[YOUR_GITHUB_ID]/Introduction_to_Git/
 ```
 
 If you check the repo, you'll find two branches `main` and `dev`
