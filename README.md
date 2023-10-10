@@ -26,7 +26,7 @@ Next clone the repo
 $ git clone https://github.com/[YOUR_GITHUB_ID]/Introduction_to_Git/
 ```
 
-If you check the repo, you'll find two branches `main` and `dev`
+If you check the repo, you'll find two branches `main` and `dev` (You may not see the `dev` branch since it's remote)
 
 ```bash
 $ git branch --list
@@ -85,7 +85,7 @@ If you encounter conflicts during the PR (which is expected given the Greek god 
 
 #### 6. Resolve Merge Conflicts:
 
-Open the text file, and you'll see conflict markers:
+Open the text file on GitHub by selecting the option to `Resolve Conflicts`, and on the web editor you'll see conflict markers:
 
 ```
 <<<<<<< HEAD
@@ -97,7 +97,7 @@ Athena
 
 To resolve this:
 
-1. Decide which choice to keep or combine them.
+1. Decide which choice to keep or combine them (in this case, keep your changes).
 2. Remove the conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
 3. Save the file.
 
