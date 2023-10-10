@@ -47,7 +47,7 @@ Replace `[your_name]` with your actual name.
 
 #### 3. Choose Your Greek God:
 
-Open the provided text file `greek_gods.tx` in the repository. Choose one Greek god from the following list and add it to the file:
+Open the provided text file `greek_gods.tx` in the repository. Choose one Greek god from the following list and __replace__ the one in the file:
 
 - Hera
 - Poseidon
